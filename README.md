@@ -28,7 +28,7 @@ Each part focuses on practical implementation, ensuring concepts are not just th
 - `.pbix` file: Main Power BI project file containing the full dashboard.
 - `README.md`: This file, providing project details.
 - `Dataset`:  Raw or sample data used for building the dashboard (if allowed to share).
-- `Screenshots`: (Optional): Dashboard preview images for those unable to open the .pbix file.
+- `Screenshots`: Dashboard preview images for those unable to open the .pbix file.
 
 ## How to Use
 
